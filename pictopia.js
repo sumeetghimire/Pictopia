@@ -1,3 +1,10 @@
+/*!
+ * Pictopia Image Gallery Library
+ * Copyright (c) 2024 Sumeet Ghimire
+ * Released under the MIT License
+ * Version :1.0.1
+ * https://github.com/sumeetghimire/Pictopia
+ */
 !function(){let t=document.createElement("script");t.src="https://code.jquery.com/jquery-3.6.0.min.js",t.type="text/javascript",t.onload=function(){$(document).ready(function(){let t=`
   <style>
     .Pictopia {
